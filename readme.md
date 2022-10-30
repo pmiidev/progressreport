@@ -4,4 +4,11 @@ Perkembangan teknologi yang begitu cepat dan akses internet yang tak terbatas te
 
 Organisasi sekaliber Pergerakan Mahasiswa Islam Indonesia (PMII) misalnya, sebagai salahsatu organisasi kepemudaan yang memiliki basis masa terbesar di Indonesia. Sebagai salahsatu organisasi besar tentu memikul tanggungjawab besar untuk berkontribusi lebih dalam era digital (disrupsi informasi) dengan segala macam potensi sumberdaya generasi digitalnya [(Ali, 2021)](https://irchamali.medium.com/inovasi-kader-pmii-dalam-menjawab-tantangan-disrupsi-informasi-3cf4a26d0f11). Dimulai dari kaderisasi, kemudian berbuah potensi, kontribusi untuk organisasi, dan sudah semestinya berakhir dengan kejelasan distribusi alumni.
 
-### Document 
+### Konsep Pengembangan
+Kader PMII Developer, sebuah keprofesian baru yang tercipta dari himpunan yang sengaja diciptakan oleh PMII untuk mewadahi para kader terbaiknya dibidang pengembangan sistem/teknologi informasi. Gerakan ini dimulai dari kesadaraan keanggotaan dalam organisasi dalam rangka untuk membesarkan organisasi.
+
+Aksi yang dapat dilakukan setelah proses akomodasi yaitu edukasi, dimana setiap anggota atau kader yang memiliki passion atau kompetensi dibidang sistem/teknologi informasi semestinya mendapatkan pendidikan informal atau non formal. Hal ini bisa berupa sebuah pelatihan maupun sekolah keprofesian yang menunjang keahlian dan kemampuan untuk memecahkan sebuah masalah menggunakan sarana pengembangan sistem.
+
+Kader PMII Influencer, sebuah keprofesian baru di tubuh PMII yang memberdayakan segenap potensi kader yang terbiasa dan memiliki pengaruh luarbiasa untuk membangun narasi digital. Konten-konten berupa visual, audio, maupun audio-visual yang memiliki karakter kuat kePMIIan pantas untuk dijadikan rujukan.
+
+Sama halnya seperti aksi yang dilakukan PMII Developer pasca akomodasi, PMII Influencer juga harus memberikan edukasi kepada para kader-kader dalam penjaringan untuk mengetahui lebih detail peranan media social insight. Pelatihan atau sekolah keprofesian untuk social media influencer dan konten kreator semestinnya menjadi sebuah sertifikasi resmi yang bisa dikeluarkan oleh PMII dengan menjalin kerjasama dengan lembaga keprofesian nasional. Sehingga pasca mengikuti rangkaian pendidikan kader influencer diharapkan lebih terarah dan memiliki visi besar bersama yang lebih terintegrasi. Kedua konsep kader dalam cakupan digitalisasi PMII ini menjadi bahasan menarik jika dipandang dari perspektif keprofesian dan kompetensi kader. 
